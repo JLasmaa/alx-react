@@ -1,4 +1,4 @@
-import React from 'react';
+mport React from 'react';
 import { shallow } from 'enzyme';
 import Notifications from './Notifications';
 
